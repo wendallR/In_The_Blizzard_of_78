@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "new Build Out Now!"
+title:  "New Build Out Now!"
 date:   2022-11-14 16:42:55 -0500
 categories: PlayTest
 ---

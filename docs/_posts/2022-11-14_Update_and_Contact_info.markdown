@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "New Build Out Now!"
-date:   2022-11-14 16:42:55 -0500
+title:  "Update and Contact Info"
+date:   2022-11-17 20:42:55 -0500
 categories: PlayTest
 ---
 Hello. A new build of In the Blizzard of 78 is out!
